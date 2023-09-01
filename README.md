@@ -9,3 +9,6 @@
 
 3)View Notes Page
 ![Screenshot (213)](https://github.com/himanshurai26/Note-Taker-Hibernate-Project/assets/77565518/608fbc7b-d433-4c78-ba04-8339628b40ee)
+
+4) Update Notes Page
+![Screenshot (215)](https://github.com/himanshurai26/Note-Taker-Hibernate-Project/assets/77565518/7aa99772-041c-4865-9ec1-8cc63d46b2d3)
